@@ -22,5 +22,3 @@ This repository contains the kinematic design, 3D CAD models, and engineering bl
 * `/Engineering_Drawings`: ISO-standard 2D blueprint (PDF) complete with dimensional constraints and a Bill of Materials.
 * `/Media`: High-resolution renders and a dynamic motion study showcasing the kinematic timing.
 
-## Motion Study
-*(Upload your MP4 video to YouTube as unlisted or use a GIF converter, then link it here to show the mechanism spinning!)*
